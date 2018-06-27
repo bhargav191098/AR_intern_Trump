@@ -1,4 +1,4 @@
 # AR_intern_Trump
-JMI intern-AR div.
+Marker Based AR using vuforia,unity.
 
 Dumping the unity files to make space :P
